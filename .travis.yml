@@ -1,6 +1,11 @@
 language: java
 
+sudo: required
+
+addons:
+ chrome: stable
+
 script: 
  - gradle clean test aggregate
- - xvfb-run make test
- - xvfb-run --server-args="-screen 0 1024x768x24" make test
+ - xvfb-run make /home/travis/build/Nineclown/unit_test/build/reports/tests/test/index.html
+ - xvfb-run --server-args="-screen 0 1024x768x24" make /home/travis/build/Nineclown/unit_test/build/reports/tests/test/index.html
