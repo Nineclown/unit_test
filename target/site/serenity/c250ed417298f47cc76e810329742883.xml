@@ -1,0 +1,21 @@
+<acceptance-test-run title="Should be able to go to overlord" name="shouldBeAbleToGoToOverlord" steps="4" successful="0" failures="0" errors="1" skipped="3" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="57" timestamp="2018-04-03T16:03:50.868+09:00" test-source="JUnit">
+  <user-story id="com.test.tutorial.serenity.features.navigation.WhenNavigating" name="When navigating" path="com.test.tutorial.serenity.features.navigation"/>
+  <tags>
+    <tag name="When navigating" type="story"/>
+  </tags>
+  <test-step result="ERROR" duration="15">
+    <description>Is on the home page</description>
+    <error>net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error>
+    <exception>net.thucydides.core.webdriver.UnsupportedDriverException:Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#xd;
+[com.test.tutorial.serenity.steps.DecohereUser.isOnTheHomePage(DecohereUser.java:20), com.test.tutorial.serenity.features.navigation.WhenNavigating.shouldBeAbleToGoToOverlord(WhenNavigating.java:22)]</exception>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Logs in as admin</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="0">
+    <description>Navigates to site area: Overlord</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="0">
+    <description>Should see page title containing: Project Overlord</description>
+  </test-step>
+</acceptance-test-run>

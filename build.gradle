@@ -1,0 +1,37 @@
+group 'test.nineclown'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'net.serenity-bdd.aggregator'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+buildscript {
+    project.ext {
+        serenityVersion = '1.1+'
+    }
+
+    repositories {
+        mavenLocal()
+        jcenter()
+    }
+
+    dependencies {
+        classpath('net.serenity-bdd:serenity-gradle-plugin:' + serenityVersion)
+    }
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile 'net.serenity-bdd:serenity-core:' + serenityVersion
+    testCompile 'net.serenity-bdd:serenity-junit:' + serenityVersion
+    testCompile 'org.assertj:assertj-core:3.4+'
+    testCompile 'org.slf4j:slf4j-simple:1.7+'
+}
+
+gradle.startParameter.continueOnFailure = true
