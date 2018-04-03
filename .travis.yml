@@ -4,4 +4,4 @@ script:
  - gradle clean test aggregate
 
 after build:
- - cd /home/travis/build/Nineclown/unit_test/build/reports/tests/test/index.html
+ - #chrome
