@@ -1,13 +1,24 @@
 language: java
-
+dist: trusty
 sudo: required
 
 addons:
- chrome: stable
+  sonarcloud:
+    organization: "nineclown-github" # the key of the org you chose at step #3
+    token:
+      secure: 66f569e00a8b5e354990523163fbc6c12d5b14ed# encrypted value of your token
+jdk:
+ - oraclejdk8
+
+script:
+  # other script steps might be done before running the actual analysis
+  - sonar-scanner
+  - gradle clean test aggregate
 
 before_install:
  - export DISPLAY=:99.0
  - sh -e /etc/init.d/xvfb start
 
-script: 
- - gradle clean test aggregate
+cache:
+  directories:
+    - '$HOME/.sonar/cache'
