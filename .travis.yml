@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "nineclown-github" # the key of the org you chose at step #3
     token:
-      secure: 66f569e00a8b5e354990523163fbc6c12d5b14ed# encrypted value of your token
+      secure: SONAR_TOKEN# encrypted value of your token
 jdk:
  - oraclejdk8
 
