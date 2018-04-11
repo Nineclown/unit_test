@@ -4,16 +4,14 @@ sudo: required
 
 addons:
   sonarcloud:
-    organization: "nineclown-github" # the key of the org you chose at step #3
+    organization: "nineclown-github"
     token:
-      secure: SONAR_TOKEN# encrypted value of your token
+      secure: SONAR_TOKEN
 jdk:
  - oraclejdk8
 
 script:
-  # other script steps might be done before running the actual analysis
-  - sonar-scanner
-  - gradle clean test aggregate
+  - sonar-scanner-X
 
 before_install:
  - export DISPLAY=:99.0
