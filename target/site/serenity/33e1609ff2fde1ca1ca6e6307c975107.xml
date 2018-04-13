@@ -1,15 +1,15 @@
-<acceptance-test-run title="Should be able to login as admin" name="shouldBeAbleToLoginAsAdmin" steps="3" successful="0" failures="0" errors="1" skipped="2" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="131" timestamp="2018-04-13T13:01:46.501+09:00" test-source="JUnit">
+<acceptance-test-run title="Should be able to login as admin" name="shouldBeAbleToLoginAsAdmin" steps="3" successful="0" failures="0" errors="1" skipped="2" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="117" timestamp="2018-04-13T13:07:53.396+09:00" test-source="JUnit">
   <user-story id="com.test.tutorial.serenity.features.authetication.WhenAuthenticating" name="When authenticating" path="com.test.tutorial.serenity.features.authetication"/>
   <tags>
     <tag name="When authenticating" type="story"/>
   </tags>
-  <test-step result="ERROR" duration="82">
+  <test-step result="ERROR" duration="77">
     <description>Is on the home page</description>
     <error>net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error>
     <exception>net.thucydides.core.webdriver.UnsupportedDriverException:Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#xd;
 [com.test.tutorial.serenity.steps.DecohereUser.isOnTheHomePage(DecohereUser.java:20), com.test.tutorial.serenity.features.authetication.WhenAuthenticating.shouldBeAbleToLoginAsAdmin(WhenAuthenticating.java:21)]</exception>
   </test-step>
-  <test-step result="SKIPPED" duration="0">
+  <test-step result="SKIPPED" duration="1">
     <description>Logs in as admin</description>
   </test-step>
   <test-step result="SKIPPED" duration="0">

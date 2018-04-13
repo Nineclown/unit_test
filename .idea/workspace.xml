@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd1877de-8817-4693-bac0-e44322709991" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change beforePath="$PROJECT_DIR$/build/libs/unit_test-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/unit_test-1.0-SNAPSHOT.jar" />
@@ -24,71 +22,34 @@
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.test.tutorial.serenity.features.navigation.WhenNavigating.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.test.tutorial.serenity.features.navigation.WhenNavigating.xml" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1181362865666655064_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1519935219164635219_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1705095791906285786_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_223916105337707123_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4128485838186093583_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4395107590888370523_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4443245414191364361_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4607768179999517361_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5503950235171882664_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6335650157637205295_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7566182826347947297_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/0efaad786dd4cc3faab2b07d2979a4d6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/2269dfd6b87a4d7993f896ee53e2e27e.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/2269dfd6b87a4d7993f896ee53e2e27e.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/2b8c3b34861e04a8ce885c911c7a6aab.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/2b8c3b34861e04a8ce885c911c7a6aab.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/2fe8e2e1cf798fae6d74f605f5d0d597.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1424876886610274575_tmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5566908640291239667_tmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/features/authetication/WhenAuthenticating.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/features/navigation/WhenNavigating.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/models/SiteArea.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/steps/DecohereUser.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/ui/CurrentPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/ui/DecohereHomePage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/ui/LandingPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/ui/SiteAreaNavigation.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.html" afterPath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.html" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.json" afterPath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.json" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.xml" afterPath="$PROJECT_DIR$/target/site/serenity/308b6059547c09d2a7bef7a855f61e65.xml" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.html" afterPath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.html" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.json" afterPath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.json" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.xml" afterPath="$PROJECT_DIR$/target/site/serenity/33e1609ff2fde1ca1ca6e6307c975107.xml" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/350e4ed46734a1e28cf29b96a92e58fb.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/350e4ed46734a1e28cf29b96a92e58fb.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/36a7a07cfad2952d588c4e6ea9a4f907.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/3e9584c5908ff443371e23c9b12eef3d.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/3e9584c5908ff443371e23c9b12eef3d.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/4987427b67fa2b37cd4c8e7d2069da4f.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/4987427b67fa2b37cd4c8e7d2069da4f.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/6e8563bda0168fd357ec299ec2639be4.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/6e8563bda0168fd357ec299ec2639be4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/7311d949b0b44122f44f6a2d905ebb65.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/7311d949b0b44122f44f6a2d905ebb65.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/766f719afd13721f76d8431084475fc2.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/766f719afd13721f76d8431084475fc2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/7c33b874c1a2f22012342d896116c2ff.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/7c33b874c1a2f22012342d896116c2ff.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.html" afterPath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.html" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.json" afterPath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.json" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.xml" afterPath="$PROJECT_DIR$/target/site/serenity/814bcc9894fd7b0bdda6ade2575442bd.xml" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/87fe8be1e72ba1a257989adcb3f705be.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/87fe8be1e72ba1a257989adcb3f705be.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-308b6059547c09d2a7bef7a855f61e65.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-33e1609ff2fde1ca1ca6e6307c975107.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-33e1609ff2fde1ca1ca6e6307c975107.xml" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c250ed417298f47cc76e810329742883.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c250ed417298f47cc76e810329742883.xml" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ff3aed4b0ed0ae1a10554a93980ef8e3.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ff3aed4b0ed0ae1a10554a93980ef8e3.xml" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/bc5ba02888e5206dfcb2e3d5dc87e0f5.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.html" afterPath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.html" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.json" afterPath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.json" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.xml" afterPath="$PROJECT_DIR$/target/site/serenity/c250ed417298f47cc76e810329742883.xml" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/ce81faa7993810e83b16bc3457e28b78.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/ce81faa7993810e83b16bc3457e28b78.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/d6684c86ed90b7ad169b3628f367217b.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/d6684c86ed90b7ad169b3628f367217b.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/de4b090ce1d1cc74bd9552424c531268.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/f586406a7579bb0819dcffb76b3d54e0.csv" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.html" afterPath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.html" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.json" afterPath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.json" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.xml" afterPath="$PROJECT_DIR$/target/site/serenity/ff3aed4b0ed0ae1a10554a93980ef8e3.xml" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/flow/serenity.configuration.json" afterPath="$PROJECT_DIR$/target/site/serenity/flow/serenity.configuration.json" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -107,11 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="200">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -121,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -132,6 +93,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalcTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalcTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -720,8 +701,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="123" />
-    <option name="y" value="36" />
+    <option name="x" value="272" />
+    <option name="y" value="405" />
     <option name="width" value="1400" />
     <option name="height" value="1015" />
   </component>
@@ -752,6 +733,32 @@
               <item name="unit_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="unit_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -920,7 +927,7 @@
       <workItem from="1522645043426" duration="1559000" />
       <workItem from="1522646637646" duration="6141000" />
       <workItem from="1522737722076" duration="1927000" />
-      <workItem from="1523590949168" duration="1358000" />
+      <workItem from="1523590949168" duration="1726000" />
     </task>
     <servers />
   </component>
@@ -936,7 +943,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10985000" />
+    <option name="totallyTimeSpent" value="11353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -997,9 +1004,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,13 +1012,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#656#657#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-            <element signature="e#1007#1008#0" expanded="false" />
-            <element signature="e#1062#1063#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,10 +1028,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#502#503#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,9 +1052,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,13 +1067,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#656#657#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-            <element signature="e#1007#1008#0" expanded="false" />
-            <element signature="e#1062#1063#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,10 +1089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#502#503#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,25 +1153,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CalcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#502#503#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/tutorial/serenity/ui/LandingPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1221,9 +1187,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,13 +1195,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#656#657#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-            <element signature="e#1007#1008#0" expanded="false" />
-            <element signature="e#1062#1063#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1260,15 +1218,31 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="200">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
