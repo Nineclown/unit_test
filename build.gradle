@@ -1,6 +1,11 @@
 group 'test.nineclown'
 version '1.0-SNAPSHOT'
 
+
+plugins {
+  id "org.sonarqube" version "2.6"
+}
+
 apply plugin: 'java'
 apply plugin: 'net.serenity-bdd.aggregator'
 
