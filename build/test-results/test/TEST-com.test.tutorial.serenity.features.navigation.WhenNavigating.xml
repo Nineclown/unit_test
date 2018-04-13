@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.test.tutorial.serenity.features.navigation.WhenNavigating" tests="1" skipped="0" failures="1" errors="0" timestamp="2018-04-03T07:03:50" hostname="NINECLOWN" time="0.058">
+<testsuite name="com.test.tutorial.serenity.features.navigation.WhenNavigating" tests="1" skipped="0" failures="1" errors="0" timestamp="2018-04-13T04:01:46" hostname="NINECLOWN" time="0.057">
   <properties/>
-  <testcase name="shouldBeAbleToGoToOverlord" classname="com.test.tutorial.serenity.features.navigation.WhenNavigating" time="0.058">
+  <testcase name="shouldBeAbleToGoToOverlord" classname="com.test.tutorial.serenity.features.navigation.WhenNavigating" time="0.057">
     <failure message="net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
 	at com.test.tutorial.serenity.steps.DecohereUser.isOnTheHomePage(DecohereUser.java:20)
 	at com.test.tutorial.serenity.features.navigation.WhenNavigating.shouldBeAbleToGoToOverlord(WhenNavigating.java:22)
@@ -33,15 +33,15 @@ net.thucydides.core.webdriver.UnsupportedDriverException: Could not instantiate 
 	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:741)
 	at net.serenitybdd.core.pages.PageObject.open(PageObject.java:729)
 	at com.test.tutorial.serenity.steps.DecohereUser.isOnTheHomePage(DecohereUser.java:20)
-	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$869a785a.CGLIB$isOnTheHomePage$4(<generated>)
-	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$869a785a$$FastClassByCGLIB$$848e3ae2.invoke(<generated>)
+	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$ab368ffd.CGLIB$isOnTheHomePage$1(<generated>)
+	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$ab368ffd$$FastClassByCGLIB$$3296ba5f.invoke(<generated>)
 	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
 	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:372)
 	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:357)
 	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:332)
 	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:134)
 	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:61)
-	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$869a785a.isOnTheHomePage(<generated>)
+	at com.test.tutorial.serenity.steps.DecohereUser$$EnhancerByCGLIB$$ab368ffd.isOnTheHomePage(<generated>)
 	at com.test.tutorial.serenity.features.navigation.WhenNavigating.shouldBeAbleToGoToOverlord(WhenNavigating.java:22)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
