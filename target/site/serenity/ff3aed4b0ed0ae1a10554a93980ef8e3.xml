@@ -1,4 +1,4 @@
-<acceptance-test-run title="Min" name="min" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="107" timestamp="2018-04-13T13:07:52.344+09:00" test-source="JUnit">
+<acceptance-test-run title="Min" name="min" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="121" timestamp="2018-04-13T13:11:53.663+09:00" test-source="JUnit">
   <user-story id="CalcTest" name="Calc test" path=""/>
   <tags>
     <tag name="Calc test" type="story"/>

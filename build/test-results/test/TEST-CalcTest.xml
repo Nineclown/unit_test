@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalcTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-13T04:07:52" hostname="NINECLOWN" time="0.259">
+<testsuite name="CalcTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-13T04:11:53" hostname="NINECLOWN" time="0.289">
   <properties/>
-  <testcase name="min" classname="CalcTest" time="0.194"/>
-  <testcase name="mul" classname="CalcTest" time="0.01"/>
-  <testcase name="sum" classname="CalcTest" time="0.017"/>
+  <testcase name="min" classname="CalcTest" time="0.207"/>
+  <testcase name="mul" classname="CalcTest" time="0.011"/>
+  <testcase name="sum" classname="CalcTest" time="0.027"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.serenitybdd.core.Serenity - 
 
