@@ -11,11 +11,7 @@ jdk:
  - oraclejdk8
 
 script:
-  - sonar-scanner-X
-
-before_install:
- - export DISPLAY=:99.0
- - sh -e /etc/init.d/xvfb start
+  - sonar-scanner -X
 
 cache:
   directories:
