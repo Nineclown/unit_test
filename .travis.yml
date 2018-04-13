@@ -4,15 +4,18 @@ sudo: required
 
 addons:
   sonarcloud:
-    organization: "nineclown-github"
+    organization: nineclown-github
     token:
       secure: SONAR_TOKEN
 jdk:
  - oraclejdk8
 
 script:
+  - ./gradlew clean check sonarqube build
   - sonar-scanner -X
 
 cache:
   directories:
-    - '$HOME/.sonar/cache'
+    $HOME/.sonar/cache
+    .gradle
+    
